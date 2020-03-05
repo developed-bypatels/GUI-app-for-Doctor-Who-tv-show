@@ -1,0 +1,10 @@
+/Users/prerak/Desktop/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.deps.json
+/Users/prerak/Desktop/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.runtimeconfig.json
+/Users/prerak/Desktop/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.runtimeconfig.dev.json
+/Users/prerak/Desktop/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.dll
+/Users/prerak/Desktop/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.pdb
+/Users/prerak/Desktop/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.csprojAssemblyReference.cache
+/Users/prerak/Desktop/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.AssemblyInfoInputs.cache
+/Users/prerak/Desktop/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.AssemblyInfo.cs
+/Users/prerak/Desktop/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.dll
+/Users/prerak/Desktop/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.pdb
