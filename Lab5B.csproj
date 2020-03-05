@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E780D26B-41ED-4000-ABAE-33B494BA8872}</ProjectGuid>
+    <ProjectGuid>{7B14BBF3-EF49-4D42-A5DB-156AB05679E5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Lab5A</RootNamespace>
-    <AssemblyName>Lab5A</AssemblyName>
+    <RootNamespace>Lab5B</RootNamespace>
+    <AssemblyName>Lab5B</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Companion.cs" />
+    <Compile Include="Doctor.cs" />
+    <Compile Include="Episode.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -1,0 +1,18 @@
+c:\users\student.user\documents\visual studio 2017\Projects\Lab5B\Lab5B\bin\Debug\Lab5B.exe.config
+c:\users\student.user\documents\visual studio 2017\Projects\Lab5B\Lab5B\bin\Debug\Lab5B.exe
+c:\users\student.user\documents\visual studio 2017\Projects\Lab5B\Lab5B\bin\Debug\Lab5B.pdb
+c:\users\student.user\documents\visual studio 2017\Projects\Lab5B\Lab5B\obj\Debug\Lab5B.csprojResolveAssemblyReference.cache
+c:\users\student.user\documents\visual studio 2017\Projects\Lab5B\Lab5B\obj\Debug\Lab5B.Form1.resources
+c:\users\student.user\documents\visual studio 2017\Projects\Lab5B\Lab5B\obj\Debug\Lab5B.Properties.Resources.resources
+c:\users\student.user\documents\visual studio 2017\Projects\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.GenerateResource.Cache
+c:\users\student.user\documents\visual studio 2017\Projects\Lab5B\Lab5B\obj\Debug\Lab5B.exe
+c:\users\student.user\documents\visual studio 2017\Projects\Lab5B\Lab5B\obj\Debug\Lab5B.pdb
+C:\Users\student.user\Downloads\PatelP\Lab5B\Lab5B\bin\Debug\Lab5B.exe.config
+C:\Users\student.user\Downloads\PatelP\Lab5B\Lab5B\bin\Debug\Lab5B.exe
+C:\Users\student.user\Downloads\PatelP\Lab5B\Lab5B\bin\Debug\Lab5B.pdb
+C:\Users\student.user\Downloads\PatelP\Lab5B\Lab5B\obj\Debug\Lab5B.csprojResolveAssemblyReference.cache
+C:\Users\student.user\Downloads\PatelP\Lab5B\Lab5B\obj\Debug\Lab5B.Form1.resources
+C:\Users\student.user\Downloads\PatelP\Lab5B\Lab5B\obj\Debug\Lab5B.Properties.Resources.resources
+C:\Users\student.user\Downloads\PatelP\Lab5B\Lab5B\obj\Debug\Lab5B.csproj.GenerateResource.Cache
+C:\Users\student.user\Downloads\PatelP\Lab5B\Lab5B\obj\Debug\Lab5B.exe
+C:\Users\student.user\Downloads\PatelP\Lab5B\Lab5B\obj\Debug\Lab5B.pdb
