@@ -1,0 +1,10 @@
+/Users/prerak/Desktop/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.deps.json
+/Users/prerak/Desktop/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.runtimeconfig.json
+/Users/prerak/Desktop/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.runtimeconfig.dev.json
+/Users/prerak/Desktop/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.dll
+/Users/prerak/Desktop/Shape/Shape/bin/Debug/netcoreapp3.1/Shape.pdb
+/Users/prerak/Desktop/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.csprojAssemblyReference.cache
+/Users/prerak/Desktop/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.AssemblyInfoInputs.cache
+/Users/prerak/Desktop/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.AssemblyInfo.cs
+/Users/prerak/Desktop/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.dll
+/Users/prerak/Desktop/Shape/Shape/obj/Debug/netcoreapp3.1/Shape.pdb

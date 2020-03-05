@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/prerak/Desktop/Employee/Employee/Employee.csproj": {}
+    "/Users/prerak/Desktop/Shape/Shape/Shape.csproj": {}
   },
   "projects": {
-    "/Users/prerak/Desktop/Employee/Employee/Employee.csproj": {
+    "/Users/prerak/Desktop/Shape/Shape/Shape.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/prerak/Desktop/Employee/Employee/Employee.csproj",
-        "projectName": "Employee",
-        "projectPath": "/Users/prerak/Desktop/Employee/Employee/Employee.csproj",
+        "projectUniqueName": "/Users/prerak/Desktop/Shape/Shape/Shape.csproj",
+        "projectName": "Shape",
+        "projectPath": "/Users/prerak/Desktop/Shape/Shape/Shape.csproj",
         "packagesPath": "/Users/prerak/.nuget/packages/",
-        "outputPath": "/Users/prerak/Desktop/Employee/Employee/obj/",
+        "outputPath": "/Users/prerak/Desktop/Shape/Shape/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/prerak/.config/NuGet/NuGet.Config"
