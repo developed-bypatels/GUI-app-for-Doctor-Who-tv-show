@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lab1B.Properties
+namespace Lab3B.Properties
 {
 
 

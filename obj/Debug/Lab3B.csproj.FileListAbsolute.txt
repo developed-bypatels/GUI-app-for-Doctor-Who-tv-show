@@ -1,0 +1,10 @@
+C:\Users\patel\Documents\SEM - 3\net\LAbs\Lab3\Lab3B\Lab3B\bin\Debug\Lab3B.exe.config
+C:\Users\patel\Documents\SEM - 3\net\LAbs\Lab3\Lab3B\Lab3B\bin\Debug\Lab3B.exe
+C:\Users\patel\Documents\SEM - 3\net\LAbs\Lab3\Lab3B\Lab3B\bin\Debug\Lab3B.pdb
+C:\Users\patel\Documents\SEM - 3\net\LAbs\Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.csprojResolveAssemblyReference.cache
+C:\Users\patel\Documents\SEM - 3\net\LAbs\Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.Form1.resources
+C:\Users\patel\Documents\SEM - 3\net\LAbs\Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+C:\Users\patel\Documents\SEM - 3\net\LAbs\Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.GenerateResource.Cache
+C:\Users\patel\Documents\SEM - 3\net\LAbs\Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+C:\Users\patel\Documents\SEM - 3\net\LAbs\Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.exe
+C:\Users\patel\Documents\SEM - 3\net\LAbs\Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.pdb
