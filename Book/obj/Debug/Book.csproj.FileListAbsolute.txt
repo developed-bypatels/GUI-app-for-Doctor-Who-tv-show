@@ -1,5 +1,0 @@
-/Users/prerak/Desktop/Book/Book/obj/Debug/Book.csprojAssemblyReference.cache
-/Users/prerak/Desktop/Book/Book/bin/Debug/Book.exe
-/Users/prerak/Desktop/Book/Book/bin/Debug/Book.pdb
-/Users/prerak/Desktop/Book/Book/obj/Debug/Book.exe
-/Users/prerak/Desktop/Book/Book/obj/Debug/Book.pdb

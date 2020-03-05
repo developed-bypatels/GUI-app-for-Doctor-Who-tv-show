@@ -1,0 +1,5 @@
+/Users/prerak/Desktop/UpdatedEmployee/UpdatedEmployee/bin/Debug/UpdatedEmployee.exe
+/Users/prerak/Desktop/UpdatedEmployee/UpdatedEmployee/bin/Debug/UpdatedEmployee.pdb
+/Users/prerak/Desktop/UpdatedEmployee/UpdatedEmployee/obj/Debug/UpdatedEmployee.csprojAssemblyReference.cache
+/Users/prerak/Desktop/UpdatedEmployee/UpdatedEmployee/obj/Debug/UpdatedEmployee.exe
+/Users/prerak/Desktop/UpdatedEmployee/UpdatedEmployee/obj/Debug/UpdatedEmployee.pdb
